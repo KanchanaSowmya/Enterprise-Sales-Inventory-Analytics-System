@@ -5,6 +5,8 @@ The **Enterprise Sales Inventory Analytics System** is a comprehensive SQL Serve
 
 The system manages inventory, processes sales transactions, tracks stock levels, and provides business insights through structured queries and database objects.
 
+---
+
 ## 🚀 Features
 - Fully normalized relational database design (3NF)
 - Inventory management and stock tracking system
