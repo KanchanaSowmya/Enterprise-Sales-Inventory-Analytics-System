@@ -13,7 +13,7 @@ The system manages inventory, processes sales transactions, tracks stock levels,
 - Audit tracking for data changes and history
 - Business analytics and reporting queries
 - Complete sample data for all tables using Insert scripts
-- Over 30 relational database objects (tables, procedures, views, etc.)
+- Over 30+ relational database objects (tables, procedures, views, etc.)
 
 ## 🛠️ Technologies Used
 - Microsoft SQL Server
